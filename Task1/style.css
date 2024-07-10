@@ -1,0 +1,13 @@
+body{
+background-image: url('bg.jpg');
+}
+div{
+background-color : #D6B4FC;
+width: 100px;
+height:50px;
+display: inline-block;
+
+}
+.bg:hover {
+  background-color: turquoise;
+}
