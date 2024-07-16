@@ -1,0 +1,23 @@
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 50%;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(180, 157, 157, 0.1);
+    background-color: #ffd2d2;
+    
+}
+.padd{
+    padding-top: 100px;
+}
+.less{
+    padding-top: 20px;
+}
+.post{
+    padding: 30;
+}
+button{
+    margin-top: 20px;
+}
